@@ -231,7 +231,6 @@ const CoffeeMenuApp = () => {
   <div className="max-w-4xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
     <div className="flex items-center gap-2">
       <span className="font-bold">Contact !</span>
-      {/* ใช้ href="tel:..." เพื่อให้มือถือเรียกแอปโทรศัพท์ขึ้นมาทันที */}
       <a 
         href="tel:0898909057" 
         className="bg-white text-red-900 px-4 py-1 rounded-full text-sm font-black hover:bg-amber-100 transition-colors"
