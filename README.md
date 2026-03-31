@@ -1,5 +1,4 @@
-# -ล้านถ้วยโปรด
-import React, { useState } from 'react';
+#import React, { useState } from 'react';
 
 const CoffeeMenuApp = () => {
   const [activeCategory, setActiveCategory] = useState('recommend');
